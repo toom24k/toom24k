@@ -5,17 +5,20 @@
 Hi my name is wenbo
 
 | Rank | Languages |
-|-----:|---------------|
+|-----:|-----------|
 |     1| java      |
-|     2| SQL              |
-|     3| Python              |
+|     2| SQL       |
+|     3| Python    |
 
 
 <details>
   <summary>
     My top Languages
   </summary>
-  your TABLE
-  TWO
-  THREE
+ | Rank | Languages |
+|-----:|-----------|
+|     1| java      |
+|     2| SQL       |
+|     3| Python    |
+
 </details>
